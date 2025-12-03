@@ -24,4 +24,5 @@ def kalkulator():
     print(f"Wynik to {wynik:.2f}")
 
 
-kalkulator()
+if __name__ == "__main__":
+    kalkulator()
